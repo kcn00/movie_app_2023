@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/movie_app_2023/static/css/main.83123936.css",
+    "main.js": "/movie_app_2023/static/js/main.5c69120f.js",
+    "static/js/787.9a0889c9.chunk.js": "/movie_app_2023/static/js/787.9a0889c9.chunk.js",
+    "index.html": "/movie_app_2023/index.html",
+    "main.83123936.css.map": "/movie_app_2023/static/css/main.83123936.css.map",
+    "main.5c69120f.js.map": "/movie_app_2023/static/js/main.5c69120f.js.map",
+    "787.9a0889c9.chunk.js.map": "/movie_app_2023/static/js/787.9a0889c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83123936.css",
+    "static/js/main.5c69120f.js"
+  ]
+}
